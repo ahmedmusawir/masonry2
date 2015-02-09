@@ -1,2 +1,4 @@
-# masonry2
-Masonry Extended to 2.0 (Box Shadow Version)
+masonry
+=======
+
+A Custom Theme w/ jQuery Masonry, Responsive Layout and CSS3 Animation
